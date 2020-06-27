@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: weather
-        image: 
+        image: <image>
         ports:
         - containerPort: 5000
