@@ -19,4 +19,4 @@ spec:
       - name: weather
         image: weather:1.0
         ports:
-        - containerPort: 5000
+        - containerPort: 3000
